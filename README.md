@@ -1,4 +1,9 @@
 # GDS-GYM-pub
+
+
+![image](https://github.com/user-attachments/assets/d5e1d54b-bf8c-4d8f-8c9c-ae22cb16d3ff)
+
+
 Repositório para informações e abertura de erros do aplicativo GDS GYM
 
 Acesso: https://gds-gym.netlify.app/
