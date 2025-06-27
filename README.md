@@ -34,6 +34,10 @@ GDS GYM é um aplicativo focado em **geração inteligente de treinos**, adaptad
 
 ![image](https://github.com/user-attachments/assets/db120bbe-db4e-4348-8abe-917b634d668e)
 
+![image](https://github.com/user-attachments/assets/ee8b64e0-6b42-45a6-b598-75c650106307)
+
+
+
 ---
 
 ## 📄 Histórico de versões
